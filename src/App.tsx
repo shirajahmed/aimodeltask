@@ -78,7 +78,7 @@ const generateDummyData = (): ModelData[] => {
       createdOn: "29/02/2024",
       lastTrainedOn: "29/02/2024",
       status: i % 2 === 0 ? "Active" : "Inactive",
-      action: "/icons/outline-dots-vertical.svg",
+      action: "/icons/dotsvertical.svg",
     });
   }
   return data;
@@ -323,7 +323,7 @@ function App() {
                   className="flex items-center gap-2 bg-primary text-white px-4 py-2 rounded-md hover:bg-opacity-90 focus:outline-none focus:ring-2 focus:ring-secondary"
                 >
                   <img
-                    src="/icons/Outline-plus-sm.svg"
+                    src="/icons/plus-sm.svg"
                     alt="plus"
                     className="w-5 h-5"
                   />
