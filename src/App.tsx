@@ -336,7 +336,7 @@ function App() {
               <div className="flex items-center gap-[16px]">
                 <div className="flex items-center bg-[#F9FAFB] rounded-md px-4 py-3 flex-1">
                   <img
-                    src="/icons/search.svg"
+                    src="/icons/searchfilter.svg"
                     alt="Search"
                     className="w-6 h-6 text-gray-400"
                   />
