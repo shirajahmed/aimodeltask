@@ -323,7 +323,7 @@ function App() {
                   className="flex items-center gap-2 bg-primary text-white px-4 py-2 rounded-md hover:bg-opacity-90 focus:outline-none focus:ring-2 focus:ring-secondary"
                 >
                   <img
-                    src="/icons/plus-sm.svg"
+                    src="/icons/signplus.svg"
                     alt="plus"
                     className="w-5 h-5"
                   />
@@ -350,7 +350,7 @@ function App() {
                 </div>
                 <button className="flex items-center bg-[#F9FAFB] px-4 py-3 gap-2 rounded-md">
                   <img
-                    src="/icons/filter.svg"
+                    src="/icons/filtericon.svg"
                     alt="Filter"
                     className="w-6 h-6"
                   />
